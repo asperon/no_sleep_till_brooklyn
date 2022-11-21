@@ -1,0 +1,19 @@
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.csprojAssemblyReference.cache
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No_Sleep_Till_Brooklyn.Properties.Resources.resources
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.csproj.GenerateResource.cache
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.csproj.CoreCompileInputs.cache
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\bin\Debug\No Sleep Till Brooklyn.exe.config
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\bin\Debug\No Sleep Till Brooklyn.exe
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\bin\Debug\No Sleep Till Brooklyn.pdb
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.exe
+C:\Users\AA100080\source\repos\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.pdb
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\bin\Debug\No Sleep Till Brooklyn.exe.config
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.exe
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.pdb
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\bin\Debug\No Sleep Till Brooklyn.exe
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\bin\Debug\No Sleep Till Brooklyn.pdb
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No_Sleep_Till_Brooklyn.Properties.Resources.resources
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.csproj.GenerateResource.Cache
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.csproj.AssemblyReference.cache
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.csproj.SuggestedBindingRedirects.cache
+U:\carl\My Source Code\No Sleep Till Brooklyn\No Sleep Till Brooklyn\obj\Debug\No Sleep Till Brooklyn.csproj.CoreCompileInputs.cache
